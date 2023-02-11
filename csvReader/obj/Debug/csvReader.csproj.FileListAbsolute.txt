@@ -1,0 +1,8 @@
+F:\Documents\GitHub\csvReader\csvReader\obj\Debug\csvReader.csproj.SuggestedBindingRedirects.cache
+F:\Documents\GitHub\csvReader\csvReader\obj\Debug\csvReader.csproj.CoreCompileInputs.cache
+F:\Documents\GitHub\csvReader\csvReader\bin\Debug\csvReader.exe.config
+F:\Documents\GitHub\csvReader\csvReader\bin\Debug\csvReader.exe
+F:\Documents\GitHub\csvReader\csvReader\bin\Debug\csvReader.pdb
+F:\Documents\GitHub\csvReader\csvReader\obj\Debug\csvReader.exe
+F:\Documents\GitHub\csvReader\csvReader\obj\Debug\csvReader.pdb
+F:\Documents\GitHub\csvReader\csvReader\obj\Debug\csvReader.csproj.AssemblyReference.cache
